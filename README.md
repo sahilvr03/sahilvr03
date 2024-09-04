@@ -1,5 +1,15 @@
+<h1 align="center">Hi 👋, I'm Vijay Rajesh</h1>
+
+
+
 # 💫 About Me:
 i am currently working on : Online Help Desk System: Centralized platform for managing campus service requests.<br>Satellite Crop Monitoring: Flask project for monitoring and storing satellite crop indices.<br>Real-time Data Management: Python application with PostgreSQL for efficient data handling.<br>
+- 💬 Ask me about **react, Nextjs, python**
+
+- 📫 How to reach me **ewe111.vijay@gmail.com**
+
+- ⚡ Fun fact **I enjoy every situation and learn many things**
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sahilvrrajesh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sahil._vr_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vijay-rajesh-bb57bb298) 
 # 💻 Tech Stack:
