@@ -3,7 +3,9 @@
 
 
 # 💫 About Me:
-i am currently working on : Online Help Desk System: Centralized platform for managing campus service requests.<br>
+i am currently working on : Online Help Desk System: Centralized platform for managing campus service requests.
+Satellite Crop Monitoring: Flask project for monitoring and storing satellite crop indices.
+Real-time Data Management: Python application with PostgreSQL for efficient data handling.
 - 💬 Ask me about **react, Nextjs, python**
 
 - 📫 How to reach me **ewe111.vijay@gmail.com**
